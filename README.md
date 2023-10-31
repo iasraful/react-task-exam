@@ -89,7 +89,7 @@ yarn preview
 
 ### Normal
 
-![Alt text](/![Alt text](image.png) "Landing Page")
+![Alt text](/![Alt text]([image.png](https://ibb.co/yYBX455)) "Landing Page")
 
 ### With Error Message
 
